@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2023-04-02T09:24:59.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="x-E4j7uHyi83yOTnASP1" version="21.1.2" type="device">
+  <diagram name="Page-1" id="v7MkpkZAj5cvRFDb57TZ">
+    <mxGraphModel dx="1235" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3qM08CkRYraECbRZQU24-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-1" target="3qM08CkRYraECbRZQU24-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-1" value="Open program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-3" value="Download" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-2" target="3qM08CkRYraECbRZQU24-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-4" target="3qM08CkRYraECbRZQU24-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-4" value="Choose Os&lt;br&gt;Choose image folder&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-6" target="3qM08CkRYraECbRZQU24-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-6" target="3qM08CkRYraECbRZQU24-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-6" value="Input desired prompt of background" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-8" target="3qM08CkRYraECbRZQU24-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-8" target="3qM08CkRYraECbRZQU24-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-8" value="Sample background generated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-26" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-10" target="3qM08CkRYraECbRZQU24-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="240" />
+              <mxPoint x="760" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-27" value="Not very sure" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-10" target="3qM08CkRYraECbRZQU24-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-28" value="No clue" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-10" target="3qM08CkRYraECbRZQU24-19">
+          <mxGeometry x="-0.2857" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="240" />
+              <mxPoint x="580" y="40" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-10" value="Sure about prompt?" style="rounded=0;whiteSpace=wrap;html=1;shape=rhombus;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="620" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-12" target="3qM08CkRYraECbRZQU24-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-12" value="Set up scheduler interval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-14" value="Suggest a prompt" style="rounded=0;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-19" value="Browse prompt in library" style="rounded=0;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="620" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-32" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-29" target="3qM08CkRYraECbRZQU24-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-36" value="Can I see more?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-29" target="3qM08CkRYraECbRZQU24-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-29" value="Sure about image?" style="rounded=0;whiteSpace=wrap;html=1;shape=rhombus;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="780" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-41" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qM08CkRYraECbRZQU24-35" target="3qM08CkRYraECbRZQU24-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-35" value="Generate another image" style="rounded=0;whiteSpace=wrap;html=1;shape=rhombus;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-38" value="Done" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="320" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qM08CkRYraECbRZQU24-40" value="Input prompt again" style="rounded=0;whiteSpace=wrap;html=1;shape=label;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="780" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
